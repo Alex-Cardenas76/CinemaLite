@@ -64,8 +64,6 @@ Sigue estos pasos para ejecutar el proyecto localmente:
     VITE_OMDB_API_KEY=tu_api_key_aqui
     ```
 
-    > **Nota:** La clave proporcionada en el ejemplo anterior (`a6f281d`) parece incompleta. Asegúrate de usar una clave válida de 8 caracteres.
-
 3.  **Ejecutar el servidor de desarrollo:**
 
     ```bash
